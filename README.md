@@ -25,7 +25,7 @@ and division, all wrapped in a sleek and professional theme.
 3. Start using the calculator for your basic arithmetic computations.
 
 ## Screenshots
-![Calculator Screenshot](/images/calc.png)
+![Calculator Screenshot](Images/Java-Calculator)
 
 ## Contribution
 
