@@ -1,4 +1,4 @@
-# Java-Calculator
+# Java Swing Calculator
 Introducing a straightforward and user-friendly calculator application developed using Java Swing for its graphical user interface. 
 This calculator offers essential arithmetic operations, including addition, subtraction, multiplication, 
 and division, all wrapped in a sleek and professional theme.
