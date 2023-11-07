@@ -30,7 +30,7 @@ and division, all wrapped in a sleek and professional theme.
 ## Contribution
 
 If you have questions, encounter issues, or wish to propose new features, please don't hesitate 
-to open an issue on this repository. We greatly value and appreciate your feedback!
+to open an issue on this repository. We greatly value and appreciate your feedback!.
 
 ## Acknowledgments
 
